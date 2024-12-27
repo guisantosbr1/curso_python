@@ -13,15 +13,6 @@ Desde os primeiros `print("Hello, World!")` até os códigos mais complexos, tud
 
 ---
 
-## 📋 Tabela de Conteúdos
-
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
-
----
-
 ## 🛠️ Instalação
 
 Para clonar o repositório e instalar as dependências, execute os seguintes comandos:
@@ -30,3 +21,4 @@ Para clonar o repositório e instalar as dependências, execute os seguintes com
 git clone https://github.com/seu-usuario/curso_python.git
 cd curso_python
 pip install -r requirements.txt
+```
