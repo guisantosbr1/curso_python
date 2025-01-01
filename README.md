@@ -2,7 +2,7 @@
 
 **Bem-vindo ao meu repositório de Python!** 🐍  
 
-Aqui compartilho as aulas, exercícios e projetos que estou desenvolvendo ao longo do meu aprendizado de Python. Para quem tiver interesse no curso, é este: [Curso de Python](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+Aqui compartilho as aulas, exercícios e projetos que estou desenvolvendo ao longo do meu aprendizado de Python. Para quem tiver interesse no curso, é este: <a href="https://www.udemy.com/course/python-3-do-zero-ao-avancado/" target="_blank">Curso de Python</a>
 
 ---
 
@@ -21,4 +21,3 @@ Para clonar o repositório e instalar as dependências, execute os seguintes com
 git clone https://github.com/seu-usuario/curso_python.git
 cd curso_python
 pip install -r requirements.txt
-```
