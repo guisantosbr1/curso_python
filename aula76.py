@@ -1,15 +1,13 @@
-pessoa = {}
+p1 = {
+    'nome': 'Guilherme',
+    'sobrenome': 'Santos',
+}
 
-
-chave = 'nome'
-
-pessoa[chave] = 'Guilherme Santos'
-pessoa['sobrenome'] = 'Costa'
-
-print(pessoa[chave])
-
-pessoa[chave] = 'Julia'
-
-del pessoa['sobrenome']
-print(pessoa)
-print(pessoa['nome'])
+#print(p1['nome'])
+#print(p1.get('nome', 'Não existe'))
+# p1.update ({
+#     'nome': 'Cristiano',
+#     'idade': 39
+# })
+p1.update(nome='Cristiano', idade=39)
+print(p1)
